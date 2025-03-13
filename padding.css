@@ -1,0 +1,42 @@
+.markdown-source-view.mod-cm6 .cm-line {
+  /*padding: 0.3em 2px;*/
+  line-height: 1.5 !important;
+}
+
+body {
+  --list-bullet-size: 0.4em !important;
+  --list-bullet-transform: translateX(-0.5em);
+  --list-number-transform: translateX(-0.5em);
+  --checkbox-margin-inline-start: 0.5em;
+}
+
+.HyperMD-header {
+  font-weight: 600;
+  line-height: 1.3;
+  font-size: 1.25em;
+  padding-top: 1em !important;
+  letter-spacing: normal;
+}
+
+.HyperMD-header-1{
+  line-height: 1.5;
+  font-size: 1.875em;
+  padding-top: 1.875em !important;
+  font-weight: 650;
+}
+
+.HyperMD-header-2{
+  line-height: 1.3;
+  font-size: 1.4em;
+  padding-top: 1.4em !important;
+  font-weight: 650;
+}
+
+.cm-line:not(.cm-active) .cm-comment{
+  display: none;
+}
+
+.markdown-source-view.mod-cm6 .cm-fold-indicator .collapse-indicator{
+  opacity: 1;
+  height: 85%;
+}
