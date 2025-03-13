@@ -1,2 +1,2 @@
 # Obsidian-Jungle-Theme
-custom css
+custom css, TokyoNight with Notion's readability
